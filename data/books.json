@@ -1,0 +1,702 @@
+[
+  {
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "genre": "Programación",
+    "imageUrl": "https://covers.openlibrary.org/b/id/8065615-L.jpg",
+    "coverId": 8065615
+  },
+  {
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt",
+    "genre": "Programación",
+    "imageUrl": "https://covers.openlibrary.org/b/id/10143650-L.jpg",
+    "coverId": 10143650
+  },
+  {
+    "title": "Structure and Interpretation of Computer Programs",
+    "author": "Harold Abelson",
+    "genre": "Programación",
+    "imageUrl": "https://covers.openlibrary.org/b/id/149338-L.jpg",
+    "coverId": 149338
+  },
+  {
+    "title": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen",
+    "genre": "Programación",
+    "imageUrl": "https://covers.openlibrary.org/b/id/2341462-L.jpg",
+    "coverId": 2341462
+  },
+  {
+    "title": "The C Programming Language",
+    "author": "Brian W. Kernighan",
+    "genre": "Programación",
+    "imageUrl": "https://covers.openlibrary.org/b/id/6684943-L.jpg",
+    "coverId": 6684943
+  },
+  {
+    "title": "Code Complete",
+    "author": "Steve McConnell",
+    "genre": "Programación",
+    "imageUrl": "https://covers.openlibrary.org/b/id/461500-L.jpg",
+    "coverId": 461500
+  },
+  {
+    "title": "Eloquent JavaScript",
+    "author": "Marijn Haverbeke",
+    "genre": "Programación",
+    "imageUrl": "https://covers.openlibrary.org/b/id/7082166-L.jpg",
+    "coverId": 7082166
+  },
+  {
+    "title": "Python Crash Course",
+    "author": "Eric Matthes",
+    "genre": "Programación",
+    "imageUrl": "https://covers.openlibrary.org/b/id/8245395-L.jpg",
+    "coverId": 8245395
+  },
+  {
+    "title": "Refactoring",
+    "author": "Martin Fowler",
+    "genre": "Programación",
+    "imageUrl": "https://covers.openlibrary.org/b/id/7087623-L.jpg",
+    "coverId": 7087623
+  },
+  {
+    "title": "Code: The Hidden Language of Computer Hardware and Software",
+    "author": "Charles Petzold",
+    "genre": "Programación",
+    "imageUrl": "https://covers.openlibrary.org/b/id/460968-L.jpg",
+    "coverId": 460968
+  },
+  {
+    "title": "The Art of Computer Programming",
+    "author": "Donald E. Knuth",
+    "genre": "Programación",
+    "imageUrl": "https://covers.openlibrary.org/b/id/136600-L.jpg",
+    "coverId": 136600
+  },
+  {
+    "title": "Grokking Algorithms",
+    "author": "Aditya Bhargava",
+    "genre": "Programación",
+    "imageUrl": "https://covers.openlibrary.org/b/id/15110686-L.jpg",
+    "coverId": 15110686
+  },
+  {
+    "title": "Design Patterns",
+    "author": "Erich Gamma",
+    "genre": "Ingeniería de software",
+    "imageUrl": "https://covers.openlibrary.org/b/id/6601119-L.jpg",
+    "coverId": 6601119
+  },
+  {
+    "title": "The Mythical Man-Month",
+    "author": "Frederick P. Brooks",
+    "genre": "Ingeniería de software",
+    "imageUrl": "https://covers.openlibrary.org/b/id/6915361-L.jpg",
+    "coverId": 6915361
+  },
+  {
+    "title": "Domain-Driven Design",
+    "author": "Eric Evans",
+    "genre": "Ingeniería de software",
+    "imageUrl": "https://covers.openlibrary.org/b/id/5548424-L.jpg",
+    "coverId": 5548424
+  },
+  {
+    "title": "Clean Architecture",
+    "author": "Robert C. Martin",
+    "genre": "Ingeniería de software",
+    "imageUrl": "https://covers.openlibrary.org/b/id/8605114-L.jpg",
+    "coverId": 8605114
+  },
+  {
+    "title": "Software Engineering",
+    "author": "Ian Sommerville",
+    "genre": "Ingeniería de software",
+    "imageUrl": "https://covers.openlibrary.org/b/id/3973371-L.jpg",
+    "coverId": 3973371
+  },
+  {
+    "title": "Designing Data-Intensive Applications",
+    "author": "Martin Kleppmann",
+    "genre": "Ingeniería de software",
+    "imageUrl": "https://covers.openlibrary.org/b/id/8434671-L.jpg",
+    "coverId": 8434671
+  },
+  {
+    "title": "The Phoenix Project",
+    "author": "Gene Kim",
+    "genre": "Ingeniería de software",
+    "imageUrl": "https://covers.openlibrary.org/b/id/9151976-L.jpg",
+    "coverId": 9151976
+  },
+  {
+    "title": "Head First Design Patterns",
+    "author": "Eric Freeman",
+    "genre": "Ingeniería de software",
+    "imageUrl": "https://covers.openlibrary.org/b/id/388950-L.jpg",
+    "coverId": 388950
+  },
+  {
+    "title": "Security Engineering",
+    "author": "Ross Anderson",
+    "genre": "Seguridad informática",
+    "imageUrl": "https://covers.openlibrary.org/b/id/4970809-L.jpg",
+    "coverId": 4970809
+  },
+  {
+    "title": "The Web Application Hacker's Handbook",
+    "author": "Dafydd Stuttard",
+    "genre": "Seguridad informática",
+    "imageUrl": "https://covers.openlibrary.org/b/id/8733893-L.jpg",
+    "coverId": 8733893
+  },
+  {
+    "title": "Hacking: The Art of Exploitation",
+    "author": "Jon Erickson",
+    "genre": "Seguridad informática",
+    "imageUrl": "https://covers.openlibrary.org/b/id/1984286-L.jpg",
+    "coverId": 1984286
+  },
+  {
+    "title": "Applied Cryptography",
+    "author": "Bruce Schneier",
+    "genre": "Seguridad informática",
+    "imageUrl": "https://covers.openlibrary.org/b/id/3930979-L.jpg",
+    "coverId": 3930979
+  },
+  {
+    "title": "The Art of Deception",
+    "author": "Kevin D. Mitnick",
+    "genre": "Seguridad informática",
+    "imageUrl": "https://covers.openlibrary.org/b/id/6454262-L.jpg",
+    "coverId": 6454262
+  },
+  {
+    "title": "Ghost in the Wires",
+    "author": "Kevin D. Mitnick",
+    "genre": "Seguridad informática",
+    "imageUrl": "https://covers.openlibrary.org/b/id/7090206-L.jpg",
+    "coverId": 7090206
+  },
+  {
+    "title": "The Cuckoo's Egg",
+    "author": "Clifford Stoll",
+    "genre": "Seguridad informática",
+    "imageUrl": "https://covers.openlibrary.org/b/id/7880307-L.jpg",
+    "coverId": 7880307
+  },
+  {
+    "title": "Cryptography and Network Security",
+    "author": "William Stallings",
+    "genre": "Seguridad informática",
+    "imageUrl": "https://covers.openlibrary.org/b/id/92342-L.jpg",
+    "coverId": 92342
+  },
+  {
+    "title": "Practical Malware Analysis",
+    "author": "Michael Sikorski",
+    "genre": "Seguridad informática",
+    "imageUrl": "https://covers.openlibrary.org/b/id/8708643-L.jpg",
+    "coverId": 8708643
+  },
+  {
+    "title": "Threat Modeling",
+    "author": "Adam Shostack",
+    "genre": "Seguridad informática",
+    "imageUrl": "https://covers.openlibrary.org/b/id/10643659-L.jpg",
+    "coverId": 10643659
+  },
+  {
+    "title": "Countdown to Zero Day",
+    "author": "Kim Zetter",
+    "genre": "Seguridad informática",
+    "imageUrl": "https://covers.openlibrary.org/b/id/8435306-L.jpg",
+    "coverId": 8435306
+  },
+  {
+    "title": "Sandworm",
+    "author": "Andy Greenberg",
+    "genre": "Seguridad informática",
+    "imageUrl": "https://covers.openlibrary.org/b/id/10105047-L.jpg",
+    "coverId": 10105047
+  },
+  {
+    "title": "Social Engineering: The Science of Human Hacking",
+    "author": "Christopher Hadnagy",
+    "genre": "Seguridad informática",
+    "imageUrl": "https://covers.openlibrary.org/b/id/10661809-L.jpg",
+    "coverId": 10661809
+  },
+  {
+    "title": "Computer Networking: A Top-Down Approach",
+    "author": "James F. Kurose",
+    "genre": "Redes y sistemas",
+    "imageUrl": "https://covers.openlibrary.org/b/id/8509058-L.jpg",
+    "coverId": 8509058
+  },
+  {
+    "title": "Computer Networks",
+    "author": "Andrew S. Tanenbaum",
+    "genre": "Redes y sistemas",
+    "imageUrl": "https://covers.openlibrary.org/b/id/9378629-L.jpg",
+    "coverId": 9378629
+  },
+  {
+    "title": "Modern Operating Systems",
+    "author": "Andrew S. Tanenbaum",
+    "genre": "Redes y sistemas",
+    "imageUrl": "https://covers.openlibrary.org/b/id/9378721-L.jpg",
+    "coverId": 9378721
+  },
+  {
+    "title": "Operating System Concepts",
+    "author": "Abraham Silberschatz",
+    "genre": "Redes y sistemas",
+    "imageUrl": "https://covers.openlibrary.org/b/id/302591-L.jpg",
+    "coverId": 302591
+  },
+  {
+    "title": "TCP/IP Illustrated",
+    "author": "W. Richard Stevens",
+    "genre": "Redes y sistemas",
+    "imageUrl": "https://covers.openlibrary.org/b/id/135567-L.jpg",
+    "coverId": 135567
+  },
+  {
+    "title": "Site Reliability Engineering",
+    "author": "Betsy Beyer",
+    "genre": "Redes y sistemas",
+    "imageUrl": "https://covers.openlibrary.org/b/id/9196682-L.jpg",
+    "coverId": 9196682
+  },
+  {
+    "title": "Computer Systems: A Programmer's Perspective",
+    "author": "Randal E. Bryant",
+    "genre": "Redes y sistemas",
+    "imageUrl": "https://covers.openlibrary.org/b/id/8511531-L.jpg",
+    "coverId": 8511531
+  },
+  {
+    "title": "Database System Concepts",
+    "author": "Abraham Silberschatz",
+    "genre": "Datos e IA",
+    "imageUrl": "https://covers.openlibrary.org/b/id/54871-L.jpg",
+    "coverId": 54871
+  },
+  {
+    "title": "SQL Antipatterns",
+    "author": "Bill Karwin",
+    "genre": "Datos e IA",
+    "imageUrl": "https://covers.openlibrary.org/b/id/8722157-L.jpg",
+    "coverId": 8722157
+  },
+  {
+    "title": "Data Science from Scratch",
+    "author": "Joel Grus",
+    "genre": "Datos e IA",
+    "imageUrl": "https://covers.openlibrary.org/b/id/12672936-L.jpg",
+    "coverId": 12672936
+  },
+  {
+    "title": "Artificial Intelligence: A Modern Approach",
+    "author": "Stuart Russell",
+    "genre": "Datos e IA",
+    "imageUrl": "https://covers.openlibrary.org/b/id/92018-L.jpg",
+    "coverId": 92018
+  },
+  {
+    "title": "Deep Learning",
+    "author": "Ian Goodfellow",
+    "genre": "Datos e IA",
+    "imageUrl": "https://covers.openlibrary.org/b/id/8086288-L.jpg",
+    "coverId": 8086288
+  },
+  {
+    "title": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "genre": "Datos e IA",
+    "imageUrl": "https://covers.openlibrary.org/b/id/9388208-L.jpg",
+    "coverId": 9388208
+  },
+  {
+    "title": "Weapons of Math Destruction",
+    "author": "Cathy O'Neil",
+    "genre": "Datos e IA",
+    "imageUrl": "https://covers.openlibrary.org/b/id/8136557-L.jpg",
+    "coverId": 8136557
+  },
+  {
+    "title": "Storytelling with Data",
+    "author": "Cole Nussbaumer Knaflic",
+    "genre": "Datos e IA",
+    "imageUrl": "https://covers.openlibrary.org/b/id/7932707-L.jpg",
+    "coverId": 7932707
+  },
+  {
+    "title": "Calculus",
+    "author": "Michael Spivak",
+    "genre": "Matemáticas",
+    "imageUrl": "https://covers.openlibrary.org/b/id/10431966-L.jpg",
+    "coverId": 10431966
+  },
+  {
+    "title": "Linear Algebra Done Right",
+    "author": "Sheldon Axler",
+    "genre": "Matemáticas",
+    "imageUrl": "https://covers.openlibrary.org/b/id/246056-L.jpg",
+    "coverId": 246056
+  },
+  {
+    "title": "Concrete Mathematics",
+    "author": "Ronald L. Graham",
+    "genre": "Matemáticas",
+    "imageUrl": "https://covers.openlibrary.org/b/id/135182-L.jpg",
+    "coverId": 135182
+  },
+  {
+    "title": "Discrete Mathematics and Its Applications",
+    "author": "Kenneth H. Rosen",
+    "genre": "Matemáticas",
+    "imageUrl": "https://covers.openlibrary.org/b/id/7083171-L.jpg",
+    "coverId": 7083171
+  },
+  {
+    "title": "Gödel, Escher, Bach",
+    "author": "Douglas R. Hofstadter",
+    "genre": "Matemáticas",
+    "imageUrl": "https://covers.openlibrary.org/b/id/14368453-L.jpg",
+    "coverId": 14368453
+  },
+  {
+    "title": "How to Solve It",
+    "author": "George Pólya",
+    "genre": "Matemáticas",
+    "imageUrl": "https://covers.openlibrary.org/b/id/8404335-L.jpg",
+    "coverId": 8404335
+  },
+  {
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "genre": "Administración",
+    "imageUrl": "https://covers.openlibrary.org/b/id/7104760-L.jpg",
+    "coverId": 7104760
+  },
+  {
+    "title": "Good to Great",
+    "author": "Jim Collins",
+    "genre": "Administración",
+    "imageUrl": "https://covers.openlibrary.org/b/id/7431270-L.jpg",
+    "coverId": 7431270
+  },
+  {
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "genre": "Administración",
+    "imageUrl": "https://covers.openlibrary.org/b/id/13290711-L.jpg",
+    "coverId": 13290711
+  },
+  {
+    "title": "The Innovator's Dilemma",
+    "author": "Clayton M. Christensen",
+    "genre": "Administración",
+    "imageUrl": "https://covers.openlibrary.org/b/id/9274687-L.jpg",
+    "coverId": 9274687
+  },
+  {
+    "title": "Zero to One",
+    "author": "Peter Thiel",
+    "genre": "Administración",
+    "imageUrl": "https://covers.openlibrary.org/b/id/9002334-L.jpg",
+    "coverId": 9002334
+  },
+  {
+    "title": "The Goal",
+    "author": "Eliyahu M. Goldratt",
+    "genre": "Administración",
+    "imageUrl": "https://covers.openlibrary.org/b/id/7262320-L.jpg",
+    "coverId": 7262320
+  },
+  {
+    "title": "The Effective Executive",
+    "author": "Peter F. Drucker",
+    "genre": "Administración",
+    "imageUrl": "https://covers.openlibrary.org/b/id/4941284-L.jpg",
+    "coverId": 4941284
+  },
+  {
+    "title": "Start with Why",
+    "author": "Simon Sinek",
+    "genre": "Administración",
+    "imageUrl": "https://covers.openlibrary.org/b/id/6395237-L.jpg",
+    "coverId": 6395237
+  },
+  {
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "genre": "Ciencia y divulgación",
+    "imageUrl": "https://covers.openlibrary.org/b/id/7888152-L.jpg",
+    "coverId": 7888152
+  },
+  {
+    "title": "Cosmos",
+    "author": "Carl Sagan",
+    "genre": "Ciencia y divulgación",
+    "imageUrl": "https://covers.openlibrary.org/b/id/8283901-L.jpg",
+    "coverId": 8283901
+  },
+  {
+    "title": "The Selfish Gene",
+    "author": "Richard Dawkins",
+    "genre": "Ciencia y divulgación",
+    "imageUrl": "https://covers.openlibrary.org/b/id/133936-L.jpg",
+    "coverId": 133936
+  },
+  {
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "genre": "Ciencia y divulgación",
+    "imageUrl": "https://covers.openlibrary.org/b/id/8634250-L.jpg",
+    "coverId": 8634250
+  },
+  {
+    "title": "The Structure of Scientific Revolutions",
+    "author": "Thomas S. Kuhn",
+    "genre": "Ciencia y divulgación",
+    "imageUrl": "https://covers.openlibrary.org/b/id/6566386-L.jpg",
+    "coverId": 6566386
+  },
+  {
+    "title": "Guns, Germs, and Steel",
+    "author": "Jared Diamond",
+    "genre": "Ciencia y divulgación",
+    "imageUrl": "https://covers.openlibrary.org/b/id/7884018-L.jpg",
+    "coverId": 7884018
+  },
+  {
+    "title": "The Code Book",
+    "author": "Simon Singh",
+    "genre": "Ciencia y divulgación",
+    "imageUrl": "https://covers.openlibrary.org/b/id/8231826-L.jpg",
+    "coverId": 8231826
+  },
+  {
+    "title": "The Innovators",
+    "author": "Walter Isaacson",
+    "genre": "Ciencia y divulgación",
+    "imageUrl": "https://covers.openlibrary.org/b/id/7313659-L.jpg",
+    "coverId": 7313659
+  },
+  {
+    "title": "Cien años de soledad",
+    "author": "Gabriel García Márquez",
+    "genre": "Literatura latinoamericana",
+    "imageUrl": "https://covers.openlibrary.org/b/id/8065356-L.jpg",
+    "coverId": 8065356
+  },
+  {
+    "title": "El amor en los tiempos del cólera",
+    "author": "Gabriel García Márquez",
+    "genre": "Literatura latinoamericana",
+    "imageUrl": "https://covers.openlibrary.org/b/id/10096404-L.jpg",
+    "coverId": 10096404
+  },
+  {
+    "title": "Crónica de una muerte anunciada",
+    "author": "Gabriel García Márquez",
+    "genre": "Literatura latinoamericana",
+    "imageUrl": "https://covers.openlibrary.org/b/id/8489859-L.jpg",
+    "coverId": 8489859
+  },
+  {
+    "title": "Pedro Páramo",
+    "author": "Juan Rulfo",
+    "genre": "Literatura latinoamericana",
+    "imageUrl": "https://covers.openlibrary.org/b/id/5419076-L.jpg",
+    "coverId": 5419076
+  },
+  {
+    "title": "Rayuela",
+    "author": "Julio Cortázar",
+    "genre": "Literatura latinoamericana",
+    "imageUrl": "https://covers.openlibrary.org/b/id/1047466-L.jpg",
+    "coverId": 1047466
+  },
+  {
+    "title": "Ficciones",
+    "author": "Jorge Luis Borges",
+    "genre": "Literatura latinoamericana",
+    "imageUrl": "https://covers.openlibrary.org/b/id/10832290-L.jpg",
+    "coverId": 10832290
+  },
+  {
+    "title": "El Aleph",
+    "author": "Jorge Luis Borges",
+    "genre": "Literatura latinoamericana",
+    "imageUrl": "https://covers.openlibrary.org/b/id/14408958-L.jpg",
+    "coverId": 14408958
+  },
+  {
+    "title": "La casa de los espíritus",
+    "author": "Isabel Allende",
+    "genre": "Literatura latinoamericana",
+    "imageUrl": "https://covers.openlibrary.org/b/id/12726378-L.jpg",
+    "coverId": 12726378
+  },
+  {
+    "title": "La ciudad y los perros",
+    "author": "Mario Vargas Llosa",
+    "genre": "Literatura latinoamericana",
+    "imageUrl": "https://covers.openlibrary.org/b/id/14588722-L.jpg",
+    "coverId": 14588722
+  },
+  {
+    "title": "Hombres de maíz",
+    "author": "Miguel Ángel Asturias",
+    "genre": "Literatura latinoamericana",
+    "imageUrl": "https://covers.openlibrary.org/b/id/4903014-L.jpg",
+    "coverId": 4903014
+  },
+  {
+    "title": "El Señor Presidente",
+    "author": "Miguel Ángel Asturias",
+    "genre": "Literatura latinoamericana",
+    "imageUrl": "https://covers.openlibrary.org/b/id/5082790-L.jpg",
+    "coverId": 5082790
+  },
+  {
+    "title": "El túnel",
+    "author": "Ernesto Sabato",
+    "genre": "Literatura latinoamericana",
+    "imageUrl": "https://covers.openlibrary.org/b/id/5517733-L.jpg",
+    "coverId": 5517733
+  },
+  {
+    "title": "Don Quijote de la Mancha",
+    "author": "Miguel de Cervantes",
+    "genre": "Clásicos",
+    "imageUrl": "https://covers.openlibrary.org/b/id/14428305-L.jpg",
+    "coverId": 14428305
+  },
+  {
+    "title": "Crimen y castigo",
+    "author": "Fiódor Dostoievski",
+    "genre": "Clásicos",
+    "imageUrl": "https://covers.openlibrary.org/b/id/12328823-L.jpg",
+    "coverId": 12328823
+  },
+  {
+    "title": "El principito",
+    "author": "Antoine de Saint-Exupéry",
+    "genre": "Clásicos",
+    "imageUrl": "https://covers.openlibrary.org/b/id/13499066-L.jpg",
+    "coverId": 13499066
+  },
+  {
+    "title": "Matar a un ruiseñor",
+    "author": "Harper Lee",
+    "genre": "Clásicos",
+    "imageUrl": "https://covers.openlibrary.org/b/id/13628885-L.jpg",
+    "coverId": 13628885
+  },
+  {
+    "title": "Orgullo y prejuicio",
+    "author": "Jane Austen",
+    "genre": "Clásicos",
+    "imageUrl": "https://covers.openlibrary.org/b/id/15240603-L.jpg",
+    "coverId": 15240603
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "genre": "Clásicos",
+    "imageUrl": "https://covers.openlibrary.org/b/id/12356249-L.jpg",
+    "coverId": 12356249
+  },
+  {
+    "title": "La metamorfosis",
+    "author": "Franz Kafka",
+    "genre": "Clásicos",
+    "imageUrl": "https://covers.openlibrary.org/b/id/14073660-L.jpg",
+    "coverId": 14073660
+  },
+  {
+    "title": "El nombre de la rosa",
+    "author": "Umberto Eco",
+    "genre": "Clásicos",
+    "imageUrl": "https://covers.openlibrary.org/b/id/10545668-L.jpg",
+    "coverId": 10545668
+  },
+  {
+    "title": "Ensayo sobre la ceguera",
+    "author": "José Saramago",
+    "genre": "Clásicos",
+    "imageUrl": "https://covers.openlibrary.org/b/id/12329495-L.jpg",
+    "coverId": 12329495
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Ciencia ficción y fantasía",
+    "imageUrl": "https://covers.openlibrary.org/b/id/8745958-L.jpg",
+    "coverId": 8745958
+  },
+  {
+    "title": "Rebelión en la granja",
+    "author": "George Orwell",
+    "genre": "Ciencia ficción y fantasía",
+    "imageUrl": "https://covers.openlibrary.org/b/id/13712713-L.jpg",
+    "coverId": 13712713
+  },
+  {
+    "title": "Un mundo feliz",
+    "author": "Aldous Huxley",
+    "genre": "Ciencia ficción y fantasía",
+    "imageUrl": "https://covers.openlibrary.org/b/id/14022039-L.jpg",
+    "coverId": 14022039
+  },
+  {
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "genre": "Ciencia ficción y fantasía",
+    "imageUrl": "https://covers.openlibrary.org/b/id/12993656-L.jpg",
+    "coverId": 12993656
+  },
+  {
+    "title": "El Hobbit",
+    "author": "J. R. R. Tolkien",
+    "genre": "Ciencia ficción y fantasía",
+    "imageUrl": "https://covers.openlibrary.org/b/id/12345036-L.jpg",
+    "coverId": 12345036
+  },
+  {
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "genre": "Ciencia ficción y fantasía",
+    "imageUrl": "https://covers.openlibrary.org/b/id/11481354-L.jpg",
+    "coverId": 11481354
+  },
+  {
+    "title": "Fundación",
+    "author": "Isaac Asimov",
+    "genre": "Ciencia ficción y fantasía",
+    "imageUrl": "https://covers.openlibrary.org/b/id/13540538-L.jpg",
+    "coverId": 13540538
+  },
+  {
+    "title": "Yo, robot",
+    "author": "Isaac Asimov",
+    "genre": "Ciencia ficción y fantasía",
+    "imageUrl": "https://covers.openlibrary.org/b/id/12385229-L.jpg",
+    "coverId": 12385229
+  },
+  {
+    "title": "Neuromante",
+    "author": "William Gibson",
+    "genre": "Ciencia ficción y fantasía",
+    "imageUrl": "https://covers.openlibrary.org/b/id/283860-L.jpg",
+    "coverId": 283860
+  }
+]

@@ -1,0 +1,510 @@
+[
+  {
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "genre": "Programación"
+  },
+  {
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt",
+    "genre": "Programación"
+  },
+  {
+    "title": "Structure and Interpretation of Computer Programs",
+    "author": "Harold Abelson",
+    "genre": "Programación"
+  },
+  {
+    "title": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen",
+    "genre": "Programación"
+  },
+  {
+    "title": "The C Programming Language",
+    "author": "Brian W. Kernighan",
+    "genre": "Programación"
+  },
+  {
+    "title": "Code Complete",
+    "author": "Steve McConnell",
+    "genre": "Programación"
+  },
+  {
+    "title": "Eloquent JavaScript",
+    "author": "Marijn Haverbeke",
+    "genre": "Programación"
+  },
+  {
+    "title": "Python Crash Course",
+    "author": "Eric Matthes",
+    "genre": "Programación"
+  },
+  {
+    "title": "Refactoring",
+    "author": "Martin Fowler",
+    "genre": "Programación"
+  },
+  {
+    "title": "Code: The Hidden Language of Computer Hardware and Software",
+    "author": "Charles Petzold",
+    "genre": "Programación"
+  },
+  {
+    "title": "The Art of Computer Programming",
+    "author": "Donald E. Knuth",
+    "genre": "Programación"
+  },
+  {
+    "title": "Grokking Algorithms",
+    "author": "Aditya Bhargava",
+    "genre": "Programación"
+  },
+  {
+    "title": "Design Patterns",
+    "author": "Erich Gamma",
+    "genre": "Ingeniería de software"
+  },
+  {
+    "title": "The Mythical Man-Month",
+    "author": "Frederick P. Brooks",
+    "genre": "Ingeniería de software"
+  },
+  {
+    "title": "Domain-Driven Design",
+    "author": "Eric Evans",
+    "genre": "Ingeniería de software"
+  },
+  {
+    "title": "Clean Architecture",
+    "author": "Robert C. Martin",
+    "genre": "Ingeniería de software"
+  },
+  {
+    "title": "Software Engineering",
+    "author": "Ian Sommerville",
+    "genre": "Ingeniería de software"
+  },
+  {
+    "title": "Designing Data-Intensive Applications",
+    "author": "Martin Kleppmann",
+    "genre": "Ingeniería de software"
+  },
+  {
+    "title": "The Phoenix Project",
+    "author": "Gene Kim",
+    "genre": "Ingeniería de software"
+  },
+  {
+    "title": "Head First Design Patterns",
+    "author": "Eric Freeman",
+    "genre": "Ingeniería de software"
+  },
+  {
+    "title": "Security Engineering",
+    "author": "Ross Anderson",
+    "genre": "Seguridad informática"
+  },
+  {
+    "title": "The Web Application Hacker's Handbook",
+    "author": "Dafydd Stuttard",
+    "genre": "Seguridad informática"
+  },
+  {
+    "title": "Hacking: The Art of Exploitation",
+    "author": "Jon Erickson",
+    "genre": "Seguridad informática"
+  },
+  {
+    "title": "Applied Cryptography",
+    "author": "Bruce Schneier",
+    "genre": "Seguridad informática"
+  },
+  {
+    "title": "The Art of Deception",
+    "author": "Kevin D. Mitnick",
+    "genre": "Seguridad informática"
+  },
+  {
+    "title": "Ghost in the Wires",
+    "author": "Kevin D. Mitnick",
+    "genre": "Seguridad informática"
+  },
+  {
+    "title": "The Cuckoo's Egg",
+    "author": "Clifford Stoll",
+    "genre": "Seguridad informática"
+  },
+  {
+    "title": "Cryptography and Network Security",
+    "author": "William Stallings",
+    "genre": "Seguridad informática",
+    "coverId": 92342
+  },
+  {
+    "title": "Practical Malware Analysis",
+    "author": "Michael Sikorski",
+    "genre": "Seguridad informática"
+  },
+  {
+    "title": "Threat Modeling",
+    "author": "Adam Shostack",
+    "genre": "Seguridad informática"
+  },
+  {
+    "title": "Countdown to Zero Day",
+    "author": "Kim Zetter",
+    "genre": "Seguridad informática"
+  },
+  {
+    "title": "Sandworm",
+    "author": "Andy Greenberg",
+    "genre": "Seguridad informática"
+  },
+  {
+    "title": "Social Engineering: The Science of Human Hacking",
+    "author": "Christopher Hadnagy",
+    "genre": "Seguridad informática"
+  },
+  {
+    "title": "Computer Networking: A Top-Down Approach",
+    "author": "James F. Kurose",
+    "genre": "Redes y sistemas",
+    "coverId": 8509058
+  },
+  {
+    "title": "Computer Networks",
+    "author": "Andrew S. Tanenbaum",
+    "genre": "Redes y sistemas"
+  },
+  {
+    "title": "Modern Operating Systems",
+    "author": "Andrew S. Tanenbaum",
+    "genre": "Redes y sistemas"
+  },
+  {
+    "title": "Operating System Concepts",
+    "author": "Abraham Silberschatz",
+    "genre": "Redes y sistemas"
+  },
+  {
+    "title": "TCP/IP Illustrated",
+    "author": "W. Richard Stevens",
+    "genre": "Redes y sistemas"
+  },
+  {
+    "title": "Site Reliability Engineering",
+    "author": "Betsy Beyer",
+    "genre": "Redes y sistemas"
+  },
+  {
+    "title": "Computer Systems: A Programmer's Perspective",
+    "author": "Randal E. Bryant",
+    "genre": "Redes y sistemas"
+  },
+  {
+    "title": "Database System Concepts",
+    "author": "Abraham Silberschatz",
+    "genre": "Datos e IA"
+  },
+  {
+    "title": "SQL Antipatterns",
+    "author": "Bill Karwin",
+    "genre": "Datos e IA"
+  },
+  {
+    "title": "Data Science from Scratch",
+    "author": "Joel Grus",
+    "genre": "Datos e IA"
+  },
+  {
+    "title": "Artificial Intelligence: A Modern Approach",
+    "author": "Stuart Russell",
+    "genre": "Datos e IA"
+  },
+  {
+    "title": "Deep Learning",
+    "author": "Ian Goodfellow",
+    "genre": "Datos e IA"
+  },
+  {
+    "title": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "genre": "Datos e IA"
+  },
+  {
+    "title": "Weapons of Math Destruction",
+    "author": "Cathy O'Neil",
+    "genre": "Datos e IA"
+  },
+  {
+    "title": "Storytelling with Data",
+    "author": "Cole Nussbaumer Knaflic",
+    "genre": "Datos e IA"
+  },
+  {
+    "title": "Calculus",
+    "author": "Michael Spivak",
+    "genre": "Matemáticas",
+    "coverId": 10431966
+  },
+  {
+    "title": "Linear Algebra Done Right",
+    "author": "Sheldon Axler",
+    "genre": "Matemáticas"
+  },
+  {
+    "title": "Concrete Mathematics",
+    "author": "Ronald L. Graham",
+    "genre": "Matemáticas"
+  },
+  {
+    "title": "Discrete Mathematics and Its Applications",
+    "author": "Kenneth H. Rosen",
+    "genre": "Matemáticas"
+  },
+  {
+    "title": "Gödel, Escher, Bach",
+    "author": "Douglas R. Hofstadter",
+    "genre": "Matemáticas"
+  },
+  {
+    "title": "How to Solve It",
+    "author": "George Pólya",
+    "genre": "Matemáticas"
+  },
+  {
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "genre": "Administración"
+  },
+  {
+    "title": "Good to Great",
+    "author": "Jim Collins",
+    "genre": "Administración"
+  },
+  {
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "genre": "Administración"
+  },
+  {
+    "title": "The Innovator's Dilemma",
+    "author": "Clayton M. Christensen",
+    "genre": "Administración"
+  },
+  {
+    "title": "Zero to One",
+    "author": "Peter Thiel",
+    "genre": "Administración"
+  },
+  {
+    "title": "The Goal",
+    "author": "Eliyahu M. Goldratt",
+    "genre": "Administración"
+  },
+  {
+    "title": "The Effective Executive",
+    "author": "Peter F. Drucker",
+    "genre": "Administración"
+  },
+  {
+    "title": "Start with Why",
+    "author": "Simon Sinek",
+    "genre": "Administración"
+  },
+  {
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "genre": "Ciencia y divulgación",
+    "coverId": 7888152
+  },
+  {
+    "title": "Cosmos",
+    "author": "Carl Sagan",
+    "genre": "Ciencia y divulgación"
+  },
+  {
+    "title": "The Selfish Gene",
+    "author": "Richard Dawkins",
+    "genre": "Ciencia y divulgación"
+  },
+  {
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "genre": "Ciencia y divulgación"
+  },
+  {
+    "title": "The Structure of Scientific Revolutions",
+    "author": "Thomas S. Kuhn",
+    "genre": "Ciencia y divulgación"
+  },
+  {
+    "title": "Guns, Germs, and Steel",
+    "author": "Jared Diamond",
+    "genre": "Ciencia y divulgación"
+  },
+  {
+    "title": "The Code Book",
+    "author": "Simon Singh",
+    "genre": "Ciencia y divulgación"
+  },
+  {
+    "title": "The Innovators",
+    "author": "Walter Isaacson",
+    "genre": "Ciencia y divulgación"
+  },
+  {
+    "title": "Cien años de soledad",
+    "author": "Gabriel García Márquez",
+    "genre": "Literatura latinoamericana",
+    "coverId": 8065356
+  },
+  {
+    "title": "El amor en los tiempos del cólera",
+    "author": "Gabriel García Márquez",
+    "genre": "Literatura latinoamericana"
+  },
+  {
+    "title": "Crónica de una muerte anunciada",
+    "author": "Gabriel García Márquez",
+    "genre": "Literatura latinoamericana"
+  },
+  {
+    "title": "Pedro Páramo",
+    "author": "Juan Rulfo",
+    "genre": "Literatura latinoamericana"
+  },
+  {
+    "title": "Rayuela",
+    "author": "Julio Cortázar",
+    "genre": "Literatura latinoamericana"
+  },
+  {
+    "title": "Ficciones",
+    "author": "Jorge Luis Borges",
+    "genre": "Literatura latinoamericana"
+  },
+  {
+    "title": "El Aleph",
+    "author": "Jorge Luis Borges",
+    "genre": "Literatura latinoamericana"
+  },
+  {
+    "title": "La casa de los espíritus",
+    "author": "Isabel Allende",
+    "genre": "Literatura latinoamericana",
+    "coverId": 12726378
+  },
+  {
+    "title": "La ciudad y los perros",
+    "author": "Mario Vargas Llosa",
+    "genre": "Literatura latinoamericana",
+    "coverId": 14588722
+  },
+  {
+    "title": "Hombres de maíz",
+    "author": "Miguel Ángel Asturias",
+    "genre": "Literatura latinoamericana"
+  },
+  {
+    "title": "El Señor Presidente",
+    "author": "Miguel Ángel Asturias",
+    "genre": "Literatura latinoamericana"
+  },
+  {
+    "title": "El túnel",
+    "author": "Ernesto Sabato",
+    "genre": "Literatura latinoamericana"
+  },
+  {
+    "title": "Don Quijote de la Mancha",
+    "author": "Miguel de Cervantes",
+    "genre": "Clásicos"
+  },
+  {
+    "title": "Crimen y castigo",
+    "author": "Fiódor Dostoievski",
+    "genre": "Clásicos"
+  },
+  {
+    "title": "El principito",
+    "author": "Antoine de Saint-Exupéry",
+    "genre": "Clásicos"
+  },
+  {
+    "title": "Matar a un ruiseñor",
+    "author": "Harper Lee",
+    "genre": "Clásicos"
+  },
+  {
+    "title": "Orgullo y prejuicio",
+    "author": "Jane Austen",
+    "genre": "Clásicos"
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "genre": "Clásicos"
+  },
+  {
+    "title": "La metamorfosis",
+    "author": "Franz Kafka",
+    "genre": "Clásicos"
+  },
+  {
+    "title": "El nombre de la rosa",
+    "author": "Umberto Eco",
+    "genre": "Clásicos",
+    "coverId": 10545668
+  },
+  {
+    "title": "Ensayo sobre la ceguera",
+    "author": "José Saramago",
+    "genre": "Clásicos"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Ciencia ficción y fantasía"
+  },
+  {
+    "title": "Rebelión en la granja",
+    "author": "George Orwell",
+    "genre": "Ciencia ficción y fantasía"
+  },
+  {
+    "title": "Un mundo feliz",
+    "author": "Aldous Huxley",
+    "genre": "Ciencia ficción y fantasía"
+  },
+  {
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "genre": "Ciencia ficción y fantasía"
+  },
+  {
+    "title": "El Hobbit",
+    "author": "J. R. R. Tolkien",
+    "genre": "Ciencia ficción y fantasía"
+  },
+  {
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "genre": "Ciencia ficción y fantasía"
+  },
+  {
+    "title": "Fundación",
+    "author": "Isaac Asimov",
+    "genre": "Ciencia ficción y fantasía"
+  },
+  {
+    "title": "Yo, robot",
+    "author": "Isaac Asimov",
+    "genre": "Ciencia ficción y fantasía"
+  },
+  {
+    "title": "Neuromante",
+    "author": "William Gibson",
+    "genre": "Ciencia ficción y fantasía"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "VincularCuentasUniLern",
+      "Effect": "Allow",
+      "Action": ["cognito-idp:ListUsers", "cognito-idp:AdminLinkProviderForUser"],
+      "Resource": "arn:aws:cognito-idp:us-east-1:349103022920:userpool/us-east-1_I1oVzy2Af"
+    }
+  ]
+}
