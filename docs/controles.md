@@ -23,3 +23,4 @@ Evidencia: n.º de captura (`docs/capturas/`) o archivo del código. Riesgos: ve
 | C16 | Respaldos automáticos de la base de datos | ISO 27002 8.13; ISO 22301 | R09, R19 | Implementado (retención 7 días); prueba de restauración pendiente | Backups automáticos de RDS | CAPTURA 32 |
 | C17 | Cifrado de datos en reposo | ISO 27002 8.24 | R09, R22 | Implementado | RDS cifrado (`aws/rds`); disco EBS de EC2 cifrado (`aws/ebs`). Hallazgo: la primera instancia se creó con disco sin cifrar; se eliminó y se recreó cifrada | CAPTURAS 32, 35 (antes), nueva captura del disco cifrado (después) |
 | C18 | IMDSv2 obligatorio en EC2 | ISO 27002 8.20 | R04 | Implementado | Metadata version: V2 only (token required) | CAPTURA 35 |
+| C19 | HTTPS y firewall de aplicación en el borde | ISO 27002 8.20, 8.24, 8.6; NIST CSF PR | R03, R06, R07 | Implementado | CloudFront redirige HTTP→HTTPS; WAF del plan gratuito con límite de solicitudes por IP | CAPTURAS 41–43, 49 |

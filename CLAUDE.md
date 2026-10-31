@@ -119,7 +119,7 @@ Accesibilidad: botones/enlaces reales, `label` en todos los campos, foco visible
 4. ✅ 100 libros con portada de Open Library (`data/books.json`).
 5. ✅ Vistas públicas, cuenta y admin. ✅ Cognito funcionando en local: registro con código, login con Google (`nonce`, `prompt=select_account`), vinculación Google ↔ correo con Lambda Pre sign-up `unilern--vincular-cuentas` (código en `aws/lambda/presignup-vincular/`; la app reintenta sola una vez el primer login tras vincular).
 6. ✅ App adaptada a libros (UniLern / UniTec), fondo blanco, política de contraseña fuerte en la validación.
-7. ⏳ AWS: ✅ Zero spend budget → **Cognito** (el equipo lo crea en la consola, Claude guía) → despliegue (RDS, EC2, CloudFront) siguiendo `docs/DEPLOY.md`.
+7. ✅ AWS desplegado: https://d17jpgxptydxb5.cloudfront.net (CloudFront `E2YXN0CYLZQYWG` + WAF gratuito → EC2 `i-04a8f2894cfa869b4` → RDS `unilern-db`). IDs en `deploy/aws.env` (ignorado); resumen en `docs/ARQUITECTURA.md`. ⏳ `docs/DEPLOY.md` (guía paso a paso) pendiente.
 8. Inventario de activos real (IDs de EC2/RDS, IPs, SG) para E4.1, y evidencias para E2.
 9. Controles del plan de tratamiento (E4.6/E5) con capturas de antes/después.
 
