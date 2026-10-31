@@ -5,22 +5,22 @@ set -euo pipefail
 REPO="git@github.com:Kmayen20/unilern.git"
 APP_DIR="$HOME/unilern"
 
-echo "== 1/6 Swap de 2 GB (la instancia tiene 1 GB de RAM y 'next build' lo necesita)"
+echo "== 1/6 Swap"
 if ! swapon --show | grep -q /swapfile; then
   sudo dd if=/dev/zero of=/swapfile bs=1M count=2048 status=none
   sudo chmod 600 /swapfile && sudo mkswap /swapfile >/dev/null && sudo swapon /swapfile
   grep -q /swapfile /etc/fstab || echo '/swapfile swap swap defaults 0 0' | sudo tee -a /etc/fstab >/dev/null
 fi
 
-echo "== 2/6 Paquetes: git, nginx, Node.js 22, PM2"
-sudo dnf install -y -q git nginx
+echo "== 2/6 Paquetes (tarda unos minutos)"
+sudo dnf install -y git nginx
 if ! command -v node >/dev/null || [[ "$(node -v)" != v22* ]]; then
   curl -fsSL https://rpm.nodesource.com/setup_22.x | sudo bash - >/dev/null
-  sudo dnf install -y -q nodejs
+  sudo dnf install -y nodejs
 fi
-command -v pm2 >/dev/null || sudo npm install -g pm2 --silent
+command -v pm2 >/dev/null || sudo npm install -g pm2
 
-echo "== 3/6 Deploy key de solo lectura para clonar el repo privado"
+echo "== 3/6 Deploy key"
 mkdir -p ~/.ssh && chmod 700 ~/.ssh
 if [[ ! -f ~/.ssh/unilern_deploy ]]; then
   ssh-keygen -q -t ed25519 -N "" -f ~/.ssh/unilern_deploy -C "unilern-ec2-deploy"
@@ -39,10 +39,10 @@ if [[ ! -d "$APP_DIR/.git" ]]; then
     echo ">>> Luego vuelve a correr: bash setup-ec2.sh"
     exit 0
   fi
-  echo "== 4/6 Clonando el repositorio"
+  echo "== 4/6 Repositorio"
   git clone -q "$REPO" "$APP_DIR"
 else
-  echo "== 4/6 Repositorio ya clonado"
+  echo "== 4/6 Repositorio"
 fi
 
 echo "== 5/6 Nginx"
@@ -51,7 +51,7 @@ sudo nginx -t -q
 sudo systemctl enable --now nginx >/dev/null 2>&1
 sudo systemctl reload nginx
 
-echo "== 6/6 PM2 al arrancar la instancia"
+echo "== 6/6 PM2"
 sudo env PATH="$PATH" pm2 startup systemd -u ec2-user --hp "$HOME" >/dev/null
 
 echo
